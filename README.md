@@ -18,6 +18,7 @@ A website for matching freelancers with companies who are looking for profession
 
 ### 2.  **Forum App**  💬
 Application for forum posts.
+🔗 [Visit Website](https://www.forum-ham.xyz)
 
 - [API](https://github.com/Forum-System-Developers/forum-system-api)
 - [Frontend App](https://github.com/Forum-System-Developers/forum-system-react)
