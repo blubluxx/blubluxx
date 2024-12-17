@@ -9,7 +9,8 @@ You can find me on LinkedIn [here](https://www.linkedin.com/in/antoanet-s-6233a6
 ## Collaborations
 
 ### 1.  **Project Rephera**  📝
-A website for matching freelancers with companies who are looking for professionals to hire for projects.  
+A website for matching freelancers with companies who are looking for professionals to hire for projects. 
+
 🔗 [Visit Website](https://www.rephera.com)
 
 - [API](https://github.com/Forum-System-Developers/job-match)
