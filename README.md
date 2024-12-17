@@ -1,16 +1,27 @@
-## Hi there 👋
+# Welcome to my profile, my name is Antoanet! 🌻
 
-<!--
-**blubluxx/blubluxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a hyped up Junior software developer with love for exploring new things and improving myself every day!
 
-Here are some ideas to get you started:
+You can find me on LinkedIn <a href='https://www.linkedin.com/in/antoanet-s-6233a6129/'>here</a>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Collaborations
+
+### 📝Project Rephera - A website for matching freelancers with companies <br> who are looking for professionals to hire for projects. ###
+
+https://www.rephera.com
+
+- <a href='https://github.com/Forum-System-Developers/job-match'>API</a>
+- <a href='https://github.com/Forum-System-Developers/job-match-db'>DB app</a>
+- <a href='https://github.com/Forum-System-Developers/job-match-frontend'>Frontend app</a>
+
+### 💬 Forum App - Application for forum posts ###
+
+- <a href='https://github.com/Forum-System-Developers/forum-system-api'>API</a>
+- <a href='https://github.com/Forum-System-Developers/forum-system-react'>Frontend app</a>
+ 
+### 🚛 Logistics App - A console application for tracking deliveries between post offices ###
+
+- <a href='https://github.com/NewOOPTeam/Logistics-App'>App</a>
+
+## Teck stack
+
