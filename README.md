@@ -46,8 +46,6 @@ Building a portfolio to showcase my photography skills and projects.
 
 ## Contact Me 📬
 
-If you'd like to reach out and chat about anything, or collaborate with me, feel free to email me!  
-
-[📧 here](mailto:antoanet.simeonova@gmail.com)
+If you'd like to reach out and chat about anything, or collaborate with me, feel free to email me [📧](mailto:antoanet.simeonova@gmail.com) !
 
 ---
