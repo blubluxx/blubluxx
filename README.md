@@ -22,11 +22,6 @@ Application for forum posts.
 - [API](https://github.com/Forum-System-Developers/forum-system-api)
 - [Frontend App](https://github.com/Forum-System-Developers/forum-system-react)
 
-### 3. **Logistics App**   🚛
-A console application for tracking deliveries between post offices.
-
-- [App](https://github.com/NewOOPTeam/Logistics-App)
-
 ---
 
 ## Tech Stack
