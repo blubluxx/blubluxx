@@ -42,8 +42,12 @@ Application for forum posts.
 
 ## Currently working on
 
-### 📷 **Portfolio website for my passion - Photography**  
+### 1. 📷 **Portfolio website for my passion - Photography**  
 Building a portfolio to showcase my photography skills and projects.
+
+
+### 2. 💰 **Expenses tracking app**  
+Developing an app that tracks your budget and implements AI for savings suggestions and predicting future expenses.
 
 ---
 
