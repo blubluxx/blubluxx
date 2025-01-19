@@ -49,6 +49,8 @@ Building a portfolio to showcase my photography skills and projects.
 ### 2. 💰 **Expenses tracking app**  
 Developing an app that tracks your budget and implements AI for savings suggestions and predicting future expenses.
 
+- [API Repo](https://github.com/blubluxx/expenses-app)
+
 ---
 
 ## Contact Me 📬
