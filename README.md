@@ -51,6 +51,10 @@ Developing an app that tracks your budget and implements AI for savings suggesti
 
 - [API Repo](https://github.com/blubluxx/expenses-app)
 
+
+### 3. ☕ **Learning Java**
+Developing a console application for grasping the principles of OOP in Java.
+
 ---
 
 ## Contact Me 📬
